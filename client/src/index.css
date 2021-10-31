@@ -1,0 +1,81 @@
+body{
+    background-image:url("https://lh3.googleusercontent.com/-Uwd8Cr-7C5g/WdIaWHqBnWI/AAAAAAAANmc/Mdv_tZIIRnIOR_zvAJJ0VuztB1Q9k50bwCHMYCw/s1600/whatsapp.jpg") ;
+    height: 100% !important;
+}
+    footer {
+        clear: both;
+        position: relative;
+    }
+.container{
+    background-color: white;
+    height: 240px;
+    width: 400px;
+    margin: auto;
+    margin-top: 130px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 2px;
+}
+.message-box{
+    background-color:#2F4F4F;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 0 0 10px 2px;
+}
+.btn-success{
+    margin-left: 137px;
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif  !important;
+}
+nav{
+    height: 36px;
+    background-color: darkturquoise !important;
+}
+.titlebar2{
+    display: inline !important;
+}
+.input-message{
+    margin-bottom: 0px !important;
+}
+.col{
+    display: inline-block !important;
+    margin-right:5px;
+}
+.form-control-sm{
+    width: 310px !important;
+}
+.message-area{
+    height: 414px !important;
+}
+.mess2{
+    display: inline-block;
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 5px;
+    text-align: start !important;
+}
+.mess1{
+    justify-content: flex-end !important;
+    display: inline-flex;
+    background-color: darkturquoise !important;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 5px;
+    text-align: right !important;
+}
+.justify-end{
+    justify-content: flex-end !important;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.room-name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
