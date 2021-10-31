@@ -5,3 +5,12 @@
  <h3>Output </h3>
  
  <img src="/client/public/ChatApp.png" alt="output" />
+ <h4>To run</h4>
+ <ul>
+ <li>cd client</li>
+ <li>npm start</li>
+</ul>
+<ul>
+ <li>cd server</li>
+ <li>npm start</li>
+</ul>
